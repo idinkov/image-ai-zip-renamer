@@ -22,7 +22,7 @@ This script requires the following:
 
 To use this script, follow these steps:
 
-1. Clone the repository or download the `image_renamer.py` file
+1. Clone the repository or download the `process_zip_file.py` file
 2. Install the required packages (OpenCV)
 3. Place the Haar cascade file in the same directory as the script
 4. Place the zip file containing the images to be processed in the same directory as the script
